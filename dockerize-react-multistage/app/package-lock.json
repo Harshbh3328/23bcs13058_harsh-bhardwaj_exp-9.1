@@ -1,0 +1,26 @@
+{
+  "name": "dockerize-react-example",
+  "version": "1.0.0",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "dockerize-react-example",
+      "version": "1.0.0",
+      "dependencies": {
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-scripts": "5.0.1"
+      }
+    },
+    "node_modules/react": {
+      "version": "18.2.0"
+    },
+    "node_modules/react-dom": {
+      "version": "18.2.0"
+    },
+    "node_modules/react-scripts": {
+      "version": "5.0.1"
+    }
+  }
+}
